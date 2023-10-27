@@ -164,6 +164,13 @@ guys karna saya tidak punya akun ibanking dari beberapa bank yang error , jika k
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/a24ac1">
+            <img src="https://avatars.githubusercontent.com/u/146932730?v=4" width="100;" alt="a24ac1"/>
+            <br />
+            <sub><b>GoodSpeed</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/mattimmanuel01">
             <img src="https://avatars.githubusercontent.com/u/41610158?v=4" width="100;" alt="mattimmanuel01"/>
             <br />
