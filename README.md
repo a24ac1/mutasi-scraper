@@ -157,17 +157,17 @@ guys karna saya tidak punya akun ibanking dari beberapa bank yang error , jika k
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/renovate-bot">
-            <img src="https://avatars.githubusercontent.com/u/25180681?v=4" width="100;" alt="renovate-bot"/>
-            <br />
-            <sub><b>Mend Renovate</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/a24ac1">
             <img src="https://avatars.githubusercontent.com/u/146932730?v=4" width="100;" alt="a24ac1"/>
             <br />
             <sub><b>GoodSpeed</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/renovate-bot">
+            <img src="https://avatars.githubusercontent.com/u/25180681?v=4" width="100;" alt="renovate-bot"/>
+            <br />
+            <sub><b>Mend Renovate</b></sub>
         </a>
     </td>
     <td align="center">
